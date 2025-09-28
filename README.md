@@ -15,6 +15,9 @@ Built using **HTML, CSS, and JavaScript**, and deployed with **GitHub Pages**.
 ---
 
 ## 🖼️ Demo
+![Profile Picture](images/profile.jpg)
+![Project 1](images/project1.jpg)
+
 🔗 **Live Portfolio:** [Click Here]( https://bhavnabarnwal.github.io/my-portfolio/)  
 📄 **Resume Download:** Available inside the site  
 
@@ -24,4 +27,5 @@ Built using **HTML, CSS, and JavaScript**, and deployed with **GitHub Pages**.
 
 ```bash
 ![Portfolio Screenshot](images/screenshot.png)
+
 

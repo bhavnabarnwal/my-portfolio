@@ -21,6 +21,7 @@ Built using **HTML, CSS, and JavaScript**, and deployed with **GitHub Pages**.
 📄 **Resume Download:** Available inside the site  
 
 ---
+📄 [Download My Resume](cv_bhavna.pdf)
 
 
 ## 📸 Preview
@@ -37,6 +38,7 @@ Built using **HTML, CSS, and JavaScript**, and deployed with **GitHub Pages**.
 
 ```bash
 ![Portfolio Screenshot](screenshot.png)
+
 
 
 

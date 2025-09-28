@@ -15,17 +15,28 @@ Built using **HTML, CSS, and JavaScript**, and deployed with **GitHub Pages**.
 ---
 
 ## 🖼️ Demo
-![Profile Picture](images/profile.jpg)
-![Project 1](images/project1.jpg)
+
 
 🔗 **Live Portfolio:** [Click Here]( https://bhavnabarnwal.github.io/my-portfolio/)  
 📄 **Resume Download:** Available inside the site  
 
 ---
 
+
 ## 📸 Preview
 
+![Profile Picture](profile.jpg)
+
+### Projects
+
+#### 1️⃣ Travel Itinerary
+![Travel Itinerary](travelitinerary.png)
+
+#### 2️⃣ Voice Assistant
+![Voice Assistant](voiceassistant.png)
+
 ```bash
-![Portfolio Screenshot](images/screenshot.png)
+![Portfolio Screenshot](screenshot.png)
+
 
 

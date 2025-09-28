@@ -15,13 +15,13 @@ Built using **HTML, CSS, and JavaScript**, and deployed with **GitHub Pages**.
 ---
 
 ## 🖼️ Demo
-🔗 **Live Portfolio:** [Click Here](https://yourusername.github.io/portfolio/)  
+🔗 **Live Portfolio:** [Click Here]( https://bhavnabarnwal.github.io/my-portfolio/)  
 📄 **Resume Download:** Available inside the site  
 
 ---
 
 ## 📸 Preview
-(Add a screenshot of your portfolio here – you can capture it and upload as `screenshot.png` in your repo)
 
 ```bash
 ![Portfolio Screenshot](images/screenshot.png)
+
